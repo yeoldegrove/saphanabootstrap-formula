@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Thu Aug 11 14:26:12 UTC 2022 - Eike Waldt <waldt@b1-systems.de>
+
+- Version bump 0.12.2
+  * pass sid to sudoers in a SLES12 compatible way
+
+-------------------------------------------------------------------
 Thu Aug 11 09:19:38 UTC 2022 - Christian Schneemann <schneemann@b1-systems.de>
 
 - Version bump 0.12.1
